@@ -42,3 +42,5 @@
   <a href="https://www.linkedin.com/in/joatham-cunha-balthazar-ba8197185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Curriculo para Download:https://drive.google.com/file/d/1ocQnRrxqlSEi_5_CXCsoQT913mK-eyoV/view?usp=sharing
+
+![snake gif](https://github.com/JoathamBalthazar/JoathamBalthazar/blob/output/github-contribution-grid-snake.svg)
