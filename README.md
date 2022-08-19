@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Eu estou a procura da minha primeira experiencia proficional com programação. 
+- 🔭 Eu estou a procura da minha primeira experiencia profissional com programação. 
 - 
-- 🌱 Eu estou cursando o 4 semestre na faculdade de analise e desenvolvimento.
+- 🌱 Eu estou cursando o 4 semestre na faculdade de análise e desenvolvimento.
 - 
 - 🤔 tenho conhecimentos basicos sobre Java e C#
 - 
